@@ -907,3 +907,8 @@ a:hover, a:focus {
   color: #0f848d;
   text-decoration: underline;
 }
+@media(max-width: 1024px){
+  .list-job, .list-job > .container {
+      padding: 0;
+  }
+}
