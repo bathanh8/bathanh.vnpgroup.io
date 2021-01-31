@@ -911,7 +911,7 @@ a:hover, a:focus {
   .list-job, .list-job > .container {
       padding: 0;
   }
-  .list-job table {
+  .list-job {
       overflow-x: scroll;
   }
 }
