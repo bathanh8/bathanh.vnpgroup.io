@@ -909,7 +909,7 @@ a:hover, a:focus {
 }
 @media(max-width: 1024px){
   .list-job, .list-job > .container {
-      padding: 50px 0px;
+      padding: 0;
   }
   .list-job {
       overflow-x: scroll;
